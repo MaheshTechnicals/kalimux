@@ -57,7 +57,7 @@ Kalimux is a bash based script which automatically installs kali linux in termux
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/kalimux`
+* `git clone https://github.com/MaheshTechnicals/kalimux`
 * `cd $HOME`
 * `ls`
 * `cd kalimux`
